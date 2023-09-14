@@ -1,5 +1,5 @@
-use  snake_rs::game::run;
+use snake_rs::game::run;
 
 fn main() {
-   run();
+    run();
 }
